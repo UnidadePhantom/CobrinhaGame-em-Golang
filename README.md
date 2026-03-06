@@ -1,8 +1,12 @@
 # Jogo da Cobrinha em Go (Ebiten)
 ![Go](https://img.shields.io/badge/GameSnake-Go-lightblue?logo=go)
 ## 📖 Descrição
-Projeto desenvolvido em ![Go](https://img.shields.io/badge/Go-lightblue?logo=go) utilizando a biblioteca ![Ebiten](https://img.shields.io/badge/Ebiten-lightblue?) para renderização gráfica.  
+Projeto desenvolvido em ![Go](https://img.shields.io/badge/Go-lightblue?logo=go) utilizando a biblioteca ![Ebiten](https://img.shields.io/badge/Ebiten-darkgreen)
+ para renderização gráfica.
+.
 Este jogo da cobrinha foi criado como exercício prático de lógica de programação, controle de fluxo e manipulação gráfica em tempo real.
+
+Item complementar do meu [portfólio](https://github.com/UnidadePhantom/Portf-lio.git) para fins de apresentação profissional.
 
 ---
 
